@@ -3,10 +3,10 @@ from gtts import gTTS
 # import os
 # import random
 
-api_id = 12345
-api_hash = 'abcdefg'
-bot_token = '123:abc'
-tg_group = 'my_group'
+api_id = 1101345
+api_hash = '053281e3cfcdced232fa20bea4d3fb07'
+bot_token = '1508652969:AAFNoL2FlaUpihwVZqImY4VP5VsD4N2RC7g'
+tg_group = 's1440763835_15901639657692418142'
 
 client = TelegramClient('slap', api_id, api_hash)
 client.start(bot_token=bot_token)
